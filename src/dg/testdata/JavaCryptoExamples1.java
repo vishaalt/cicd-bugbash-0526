@@ -12,9 +12,11 @@ public class JavaCryptoExamples1 {
 
     public void testCipher4() throws NoSuchAlgorithmException, NoSuchPaddingException, InvalidKeyException, IllegalBlockSizeException, BadPaddingException {
         Cipher c = Cipher.getInstance("AES");
+        Cipher c2 = Cipher.getInstance("AEsS");
         c.init(1, new SecretKeySpec(null, "AES"));
         c.doFinal(null);
         c.doFinal(null);
+        c2.doFinal(null);
         // Assertions.assertState(c, -1);
 
         c.doFinal(null);
