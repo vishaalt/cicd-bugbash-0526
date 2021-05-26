@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+
+<project name="AWSGuruDragonglassTestData-1.0" basedir="." default="release" xmlns:ht="happytrails">
+
+  <import file="${happytrails.root}/happytrails.xml"/>
+
+  <!-- Define HappierTrails property overrides here -->
+  <property name="tests.additional.jvmargs" value=""/>
+
+  <!-- This package has test data and does not need checkstyle and findbugs validation -->
+  <property name="checkstyle.failOnError" value="false" />
+  <property name="findbugs.failOnError" value="false" />
+
+  <ht:import file="happier-trails.xml"/>
+  <!-- For more information on targets and how to override them, see
+       https://w.amazon.com/index.php/BrazilBuildSystem/HappierTrails/Targets -->
+       
+</project>

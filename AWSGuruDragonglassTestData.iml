@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="LibRoot: build-private-classes-generated">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../build/AWSGuruDragonglassTestData/AWSGuruDragonglassTestData-1.0/AL2012/DEV.STD.PTHREAD/build/private/classes/generated" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" scope="TEST" name="BlackCaiman: Maven-org-junit-jupiter_junit-jupiter-engine-5.x.253767.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="BlackCaiman: Maven-org-junit-jupiter_junit-jupiter-params-5.x.253612.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="BlackCaiman: Maven-org-junit-jupiter_junit-jupiter-api-5.x.253770.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="BlackCaiman: Maven-org-junit-platform_junit-platform-console-1.x.253271.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="BlackCaiman: Maven-org-junit-platform_junit-platform-reporting-1.x.30831.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="BlackCaiman: Maven-org-junit-platform_junit-platform-launcher-1.x.253071.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="BlackCaiman: Maven-org-junit-platform_junit-platform-engine-1.x.252781.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="BlackCaiman: Maven-org-junit-platform_junit-platform-commons-1.x.252607.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="BlackCaiman: Maven-org-apiguardian_apiguardian-api-1.x.247913.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="BlackCaiman: Maven-org-opentest4j_opentest4j-1.x.249417.0" level="project" />
+    <orderEntry type="library" name="BlackCaiman: AWSEC2JavaClient-1.11.x.872378.0" level="project" />
+    <orderEntry type="library" name="BlackCaiman: AWSKeyManagementJavaClient-1.11.x.1001014.0" level="project" />
+    <orderEntry type="library" name="BlackCaiman: AWSJavaClientRuntime-1.11.x.1001434.0" level="project" />
+    <orderEntry type="library" name="BlackCaiman: AWSJavaClientJmxSPI-1.11.x.832094.0" level="project" />
+    <orderEntry type="library" name="BlackCaiman: AWSJavaClientSigners-1.11.x.857844.0" level="project" />
+    <orderEntry type="library" name="BlackCaiman: AWSJavaClientCore-1.11.x.854645.0" level="project" />
+    <orderEntry type="library" name="BlackCaiman: AWSJavaClientRuntimeConfigOverride-1.11.x.293150.0" level="project" />
+    <orderEntry type="library" name="BlackCaiman: AWSJavaCredentialInterfaces-1.0.857953.0" level="project" />
+    <orderEntry type="library" name="BlackCaiman: Apache-HttpComponents-HttpClient-4.5.x.376110.0" level="project" />
+    <orderEntry type="library" name="BlackCaiman: Apache-HttpComponents-HttpCore-4.4.x.343421.0" level="project" />
+    <orderEntry type="library" name="BlackCaiman: ApacheTomcat7-7.0.295719.0" level="project" />
+    <orderEntry type="library" name="BlackCaiman: JMESPathJava-1.0.304414.0" level="project" />
+    <orderEntry type="library" name="BlackCaiman: JZlib-1.1.1.348400.0" level="project" />
+    <orderEntry type="library" name="BlackCaiman: Jackson-databind-2.10.x.29480.0" level="project" />
+    <orderEntry type="library" name="BlackCaiman: Jackson-annotations-2.10.x.27357.0" level="project" />
+    <orderEntry type="library" name="BlackCaiman: Jackson-dataformat-cbor-2.6.x.302185.0" level="project" />
+    <orderEntry type="library" name="BlackCaiman: Jackson-core-2.10.x.34687.0" level="project" />
+    <orderEntry type="library" name="BlackCaiman: JakartaCommons-cli-1.2.309786.0" level="project" />
+    <orderEntry type="library" name="BlackCaiman: JakartaCommons-codec-1.x.314833.0" level="project" />
+    <orderEntry type="library" name="BlackCaiman: JakartaCommons-logging-adapters-1.1.348266.0" level="project" />
+    <orderEntry type="library" name="BlackCaiman: JakartaCommons-logging-api-1.1.347097.0" level="project" />
+    <orderEntry type="library" name="BlackCaiman: JavaEE_JSP-2.2.260126.0" level="project" />
+    <orderEntry type="library" name="BlackCaiman: J2ee_servlet-3.0.287829.0" level="project" />
+    <orderEntry type="library" name="BlackCaiman: JavaEE_EL-2.2.260760.0" level="project" />
+    <orderEntry type="library" name="BlackCaiman: Joda-time-2.x.339018.0" level="project" />
+    <orderEntry type="library" name="BlackCaiman: Maven-software-amazon-ion_ion-java-1.x.255189.0" level="project" />
+  </component>
+</module>
