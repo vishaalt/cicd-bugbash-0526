@@ -60,7 +60,7 @@ jobs:
       uses: ./.github/vijejain/cicd-actions-bugbash
       if: ${{ success() }}
       with:          
-        build_path: target # build artifact(s) directoryasd
+        build_path: target # build artifact(s) directory
         s3_bucket: codeguru-reviewer-mybucket-234
         
     - name: Upload review result
