@@ -8,9 +8,6 @@ on:
     branches: [ main ]
   pull_request:
     branches: [ main ]
-  schedule: 
-    # * is a special character in YAML so you have to quote this string
-    - cron:  '*/15 * * * *'   # Runs every 15 mins
   workflow_dispatch:
     inputs:
       logLevel:
